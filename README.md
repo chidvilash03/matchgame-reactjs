@@ -1,4 +1,4 @@
-In this project, let's build a **Match Game** by applying the concepts we have learned till now.
+In this project, I built a **Match Game** 
 
 ### Refer to the video below:
 
@@ -36,7 +36,7 @@ In this project, let's build a **Match Game** by applying the concepts we have l
 <summary>Functionality to be added</summary>
 <br/>
 
-The app must have the following functionalities
+The app have the following functionalities
 
 - Initially,
   - Score should be `0` and time should be `60` sec
@@ -69,20 +69,6 @@ The app must have the following functionalities
   |   imageUrl   |  String   |
   | thumbnailUrl |  String   |
   |   category   |  String   |
-
-</details>
-
-### Important Note
-
-<details>
-<summary>Click to view</summary>
-
-<br/>
-
-**The following instructions are required for the tests to pass**
-
-- The image to be matched in the app should have the alt as **match**
-- The thumbnail images in the app should have the alt as **thumbnail**
 
 </details>
 
@@ -119,9 +105,3 @@ The app must have the following functionalities
 
 </details>
 
-> ### _Things to Keep in Mind_
->
-> - All components you implement should go in the `src/components` directory.
-> - Don't change the component folder names as those are the files being imported into the tests.
-> - **Do not remove the pre-filled code**
-> - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
