@@ -1,0 +1,32 @@
+.thu-lis {
+  list-style-type: none;
+  margin: 5px;
+}
+.btn2 {
+  background-color: transparent;
+  width: 150px;
+  height: 100px;
+  margin: 5px;
+  border-width: 0px;
+  border-radius: 5px;
+}
+
+.thu-img {
+  width: 150px;
+  height: 100px;
+}
+@media screen and (max-width: 576px) {
+  .thu-lis {
+    list-style-type: none;
+    margin: 0px;
+  }
+  .btn2 {
+    background-color: transparent;
+    border-width: 0px;
+    border-radius: 5px;
+  }
+  .thu-img {
+    width: 100px;
+    height: 100px;
+  }
+}
